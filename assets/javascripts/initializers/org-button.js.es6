@@ -1,3 +1,4 @@
+import PostMenuView from 'discourse/views/post-menu';
 import { Button } from "discourse/views/post-menu";
 
 export default {
